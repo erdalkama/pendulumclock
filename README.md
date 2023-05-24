@@ -1,6 +1,7 @@
 # pendulumclock
 
 Pendulum Clock is a clock application.
+
 ![400x800bb](https://github.com/erdalkama/pendulumclock/assets/34250103/9a7f2f3d-fbac-4903-95b0-b9ef8875710f)
 
 ## Getting Started
